@@ -5,6 +5,19 @@ Data Science & Business Analytics Student
 **ArtemIlinn/ArtemIlinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+## With passion for finance, business, and tech here are some of my projects:
+
+- 🪶 [Options Pricing and Trading](https://github.com/ArtemIlinn/options)
+- 🪙 [Financial engeneering & RSI strategy for Dogecoin](https://github.com/ArtemIlinn/Financial-Engineering)
+- 🤖 [CPPI strategy & algotrading](https://github.com/ArtemIlinn/algotrading/tree/main/strategies)
+- 🌋 [Value at Risk backtesting](https://github.com/ArtemIlinn/ValueAtRisk)
+- 📊 [Investment management for business](https://github.com/ArtemIlinn/Investment-Management)
+- 🎧 [Spotify web-dashboard](https://github.com/ArtemIlinn/spotifysongs)
+- 🛢 [Macro oil research](https://github.com/ArtemIlinn/CMF_macro)
+- 🔍 [Researches on different topics](https://github.com/ArtemIlinn/Research)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

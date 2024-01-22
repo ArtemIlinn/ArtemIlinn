@@ -14,7 +14,7 @@ I'm currently a Data Science & Business Analytics student and the researcher ana
 - 📊 [Investment management for business](https://github.com/ArtemIlinn/Investment-Management)
 - 🎧 [Spotify web-dashboard](https://github.com/ArtemIlinn/spotifysongs)
 - 🛢 [Macro oil research](https://github.com/ArtemIlinn/CMF_macro)
-- 🔍 [Researches on different topics](https://github.com/ArtemIlinn/Research)
+- 🔍 [Researches (Finance & Business)](https://github.com/ArtemIlinn/Research)
 
 
 

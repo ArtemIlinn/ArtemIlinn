@@ -10,7 +10,7 @@ I'm currently a Data Science & Business Analytics student and the researcher ana
 - 🪶 [Options Pricing and Trading](https://github.com/ArtemIlinn/options)
 - 🪙 [Financial engeneering & RSI strategy for Dogecoin](https://github.com/ArtemIlinn/Financial-Engineering)
 - 🤖 [CPPI strategy & algotrading](https://github.com/ArtemIlinn/algotrading/tree/main/strategies)
-- 🌋 [Value at Risk backtesting](https://github.com/ArtemIlinn/ValueAtRisk)
+- 🌋 [Dashboard Value at Risk](https://github.com/ArtemIlinn/ValueAtRisk)
 - 📊 [Investment management for business](https://github.com/ArtemIlinn/Investment-Management)
 - 🎧 [Spotify web-dashboard](https://github.com/ArtemIlinn/spotifysongs)
 - 🛢 [Macro oil research](https://github.com/ArtemIlinn/CMF_macro)

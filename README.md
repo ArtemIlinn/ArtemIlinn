@@ -9,9 +9,12 @@ I'm currently a Data Science & Business Analytics student and the researcher ana
 
 
 
-| Analytics    | Researches     | Quant | Crypto |                                                                                                                                                  
+| Analytics     | Finance       | Quant | Crypto |                                                                                                                                                  
 | ---           | ---           |  ---  | ---    |                                                                                                                                                 
-| data cell one | data cell two |
+| 🎧 [Spotify web-dashboard](https://github.com/ArtemIlinn/spotifysongs) | 🌋 [Dashboard Value at Risk](https://github.com/ArtemIlinn/ValueAtRisk) | 🪶 [Options Pricing and Trading](https://github.com/ArtemIlinn/options)|
+|| 📊 [Investment management for business](https://github.com/ArtemIlinn/Investment-Management) | 🪙 [Financial engeneering & RSI strategy for Dogecoin](https://github.com/ArtemIlinn/Financial-Engineering) | 
+| | | 🤖 [CPPI strategy & algotrading](https://github.com/ArtemIlinn/algotrading/tree/main/strategies) | 
+| | | 🛢 [Macro oil research](https://github.com/ArtemIlinn/CMF_macro) |
 
 
 - 🪶 [Options Pricing and Trading](https://github.com/ArtemIlinn/options)

@@ -5,26 +5,28 @@ I'm currently a Data Science & Business Analytics student and the researcher ana
 **ArtemIlinn/ArtemIlinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## With passion for finance, business, and tech here are some of my projects:
+### With passion for finance, business, and tech here are some of my projects:
 
-
-
-| Analytics     | Finance       | Quant | Crypto |                                                                                                                                                  
-| ---           | ---           |  ---  | ---    |                                                                                                                                                 
-| 🎧 [Spotify web-dashboard](https://github.com/ArtemIlinn/spotifysongs) | 🌋 [Dashboard Value at Risk](https://github.com/ArtemIlinn/ValueAtRisk) | 🪶 [Options Pricing and Trading](https://github.com/ArtemIlinn/options)|
-|| 📊 [Investment management for business](https://github.com/ArtemIlinn/Investment-Management) | 🪙 [Financial engeneering & RSI strategy for Dogecoin](https://github.com/ArtemIlinn/Financial-Engineering) | 
-| | | 🤖 [CPPI strategy & algotrading](https://github.com/ArtemIlinn/algotrading/tree/main/strategies) | 
-| | | 🛢 [Macro oil research](https://github.com/ArtemIlinn/CMF_macro) |
-
-
+## Business Analytics
+- 🎧 [Spotify web-dashboard](https://github.com/ArtemIlinn/spotifysongs)
+- 📕 [Alfa bank competitor analysis](https://github.com/ArtemIlinn/Research/blob/main/report%20Alfa%2023.pdf)
+- 🌍 [Strategy tech consulting](https://github.com/ArtemIlinn/Research/blob/main/Edison%20Dubai-Moscow%20Strategy.pdf)
+- 🌱 [ESG paper](https://github.com/ArtemIlinn/Research/blob/main/Green%20Investing%20and%20Business%20Ecosystems_%20New%20strategies%20for%20international%20business.pdf)
+- 🔍 [Researches (Finance & Business)](https://github.com/ArtemIlinn/Research)
+  
+## Finance
+- 🌋 [Dashboard Value at Risk](https://github.com/ArtemIlinn/ValueAtRisk)
+- 📊 [Investment management for business](https://github.com/ArtemIlinn/Investment-Management)
+  
+## Quant & Fin Engeneering 
 - 🪶 [Options Pricing and Trading](https://github.com/ArtemIlinn/options)
 - 🪙 [Financial engeneering & RSI strategy for Dogecoin](https://github.com/ArtemIlinn/Financial-Engineering)
 - 🤖 [CPPI strategy & algotrading](https://github.com/ArtemIlinn/algotrading/tree/main/strategies)
-- 🌋 [Dashboard Value at Risk](https://github.com/ArtemIlinn/ValueAtRisk)
-- 📊 [Investment management for business](https://github.com/ArtemIlinn/Investment-Management)
-- 🎧 [Spotify web-dashboard](https://github.com/ArtemIlinn/spotifysongs)
 - 🛢 [Macro oil research](https://github.com/ArtemIlinn/CMF_macro)
-- 🔍 [Researches (Finance & Business)](https://github.com/ArtemIlinn/Research)
+
+## Crypto & Web3
+
+
 
 
 

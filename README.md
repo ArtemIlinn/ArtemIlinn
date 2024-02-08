@@ -7,6 +7,13 @@ I'm currently a Data Science & Business Analytics student and the researcher ana
 
 ## With passion for finance, business, and tech here are some of my projects:
 
+
+
+| Analytics    | Researches     | Quant | Crypto |                                                                                                                                                  
+| ---           | ---           |  ---  | ---    |                                                                                                                                                 
+| data cell one | data cell two |
+
+
 - 🪶 [Options Pricing and Trading](https://github.com/ArtemIlinn/options)
 - 🪙 [Financial engeneering & RSI strategy for Dogecoin](https://github.com/ArtemIlinn/Financial-Engineering)
 - 🤖 [CPPI strategy & algotrading](https://github.com/ArtemIlinn/algotrading/tree/main/strategies)

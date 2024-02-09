@@ -25,7 +25,9 @@ I'm currently a Data Science & Business Analytics student and the researcher ana
 - 🛢 [Macro oil research](https://github.com/ArtemIlinn/CMF_macro)
 
 ## Crypto & Web3
-- 🧩 [The Graph (GRT)](https://github.com/ArtemIlinn/tokenresearch/blob/main/Graph%20Token%20(GRT).pdf)
+- <img src="https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png?1696513159" width="20" height="20" /> [The Graph (GRT)](https://github.com/ArtemIlinn/tokenresearch/blob/main/Graph%20Token%20(GRT).pdf)
+
+
 
 
 

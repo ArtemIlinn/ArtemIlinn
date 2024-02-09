@@ -20,7 +20,7 @@ I'm currently a Data Science & Business Analytics student and the researcher ana
   
 ## Quant & Fin Engeneering 
 - 🪶 [Options Pricing and Trading](https://github.com/ArtemIlinn/options)
-- 🪙 [Financial engeneering & RSI strategy for Dogecoin](https://github.com/ArtemIlinn/Financial-Engineering)
+- 🪙 [Financial engeneering & RSI Dogecoin](https://github.com/ArtemIlinn/Financial-Engineering)
 - 🤖 [CPPI strategy & algotrading](https://github.com/ArtemIlinn/algotrading/tree/main/strategies)
 - 🛢 [Macro oil research](https://github.com/ArtemIlinn/CMF_macro)
 

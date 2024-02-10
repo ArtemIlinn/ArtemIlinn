@@ -16,7 +16,7 @@ I'm currently a Data Science & Business Analytics student and the researcher ana
 - 🔍 [Researches (Finance & Business)](https://github.com/ArtemIlinn/Research)
   
 ## Finance
-- 🌋 [Dashboard Value at Risk](https://github.com/ArtemIlinn/ValueAtRisk)
+- 🌋 [Value at Risk dashboard in excel](https://github.com/ArtemIlinn/ValueAtRisk)
 - 📊 [Investment management for business](https://github.com/ArtemIlinn/Investment-Management)
   
 ## Quant & Fin Engeneering 

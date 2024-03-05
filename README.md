@@ -7,7 +7,7 @@ I'm currently a Data Science & Business Analytics student and the researcher ana
 
 ### With passion for finance, business, and tech here are some of my projects:
 
-## Analytics: Data & Business
+## Analytics
 - 🎧 [Spotify web-dashboard](https://github.com/ArtemIlinn/spotifysongs)
 - 💻 [Business Intelligence](https://github.com/ArtemIlinn/business-intelligence)
 - 📕 [Alfa bank competitor analysis](https://github.com/ArtemIlinn/Research/blob/main/report%20Alfa%2023.pdf)
@@ -15,7 +15,7 @@ I'm currently a Data Science & Business Analytics student and the researcher ana
 - 🌱 [ESG paper](https://github.com/ArtemIlinn/Research/blob/main/Green%20Investing%20and%20Business%20Ecosystems_%20New%20strategies%20for%20international%20business.pdf)
 - 🔍 [Researches (Finance & Business)](https://github.com/ArtemIlinn/Research)
   
-## Finance & Risks
+## Finance
 - 🌋 [Value at Risk dashboard in excel](https://github.com/ArtemIlinn/ValueAtRisk)
 - 📊 [Investment management for business](https://github.com/ArtemIlinn/Investment-Management)
   

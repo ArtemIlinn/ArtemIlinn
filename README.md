@@ -1,6 +1,6 @@
 ### Hi 👋, my name is Artem
 
-I'm currently a Data Science & Business Analytics student and the researcher analysing the data of TradFi and DeFi, more about my experience in [CV](https://github.com/ArtemIlinn/my_CV/blob/main/CV%20Artem%20Ilin.pdf).
+I'm currently a Data Science & Business Analytics student and the researcher, analysing the data of TradFi and DeFi, more about my experience in [CV](https://github.com/ArtemIlinn/my_CV/blob/main/CV%20Artem%20Ilin.pdf).
 <!--
 **ArtemIlinn/ArtemIlinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

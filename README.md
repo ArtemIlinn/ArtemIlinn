@@ -11,7 +11,7 @@ I'm currently a Data Science & Business Analytics student and the researcher, an
 - 🎧 [Spotify web-dashboard](https://github.com/ArtemIlinn/spotifysongs)
 - 💻 [Business Intelligence](https://github.com/ArtemIlinn/business-intelligence)
 - 🌓 [A/B-tests](https://github.com/ArtemIlinn/AB)
-- 🚀 [Taxi: park's DBMS, Uber analytics]()
+- 🚖 [Taxi: park's DBMS, Uber analytics]()
 - 🌍 [Tech consulting international strategy](https://github.com/ArtemIlinn/Research/blob/main/Edison%20Dubai-Moscow%20Strategy.pdf)
 - 🌱 [ESG paper](https://github.com/ArtemIlinn/Research/blob/main/Green%20Investing%20and%20Business%20Ecosystems_%20New%20strategies%20for%20international%20business.pdf)
 - 🔍 [Researches (Finance & Business)](https://github.com/ArtemIlinn/Research)

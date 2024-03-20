@@ -7,7 +7,7 @@ I'm currently a Data Science & Business Analytics student and the researcher, an
 
 ### With passion for finance, business, and tech here are some of my projects:
 
-## Analytics: business, prouct, data
+## Analytics: business, product, data
 - 🎧 [Spotify web-dashboard](https://github.com/ArtemIlinn/spotifysongs)
 - 💻 [Business Intelligence](https://github.com/ArtemIlinn/business-intelligence)
 - 📕 [Alfa bank competitor analysis](https://github.com/ArtemIlinn/Research/blob/main/report%20Alfa%2023.pdf)

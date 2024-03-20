@@ -10,12 +10,14 @@ I'm currently a Data Science & Business Analytics student and the researcher, an
 ## Analytics
 - 🎧 [Spotify web-dashboard](https://github.com/ArtemIlinn/spotifysongs)
 - 💻 [Business Intelligence](https://github.com/ArtemIlinn/business-intelligence)
-- 📕 [Alfa bank competitor analysis](https://github.com/ArtemIlinn/Research/blob/main/report%20Alfa%2023.pdf)
-- 🌍 [Strategy tech consulting](https://github.com/ArtemIlinn/Research/blob/main/Edison%20Dubai-Moscow%20Strategy.pdf)
+- 🌓 [A/B, hypotheses, tests]()
+- 🌍 [Tech consulting international strategy](https://github.com/ArtemIlinn/Research/blob/main/Edison%20Dubai-Moscow%20Strategy.pdf)
 - 🌱 [ESG paper](https://github.com/ArtemIlinn/Research/blob/main/Green%20Investing%20and%20Business%20Ecosystems_%20New%20strategies%20for%20international%20business.pdf)
 - 🔍 [Researches (Finance & Business)](https://github.com/ArtemIlinn/Research)
   
 ## Finance
+- ⭐️ [Tinkoff North Star, KPIs]()
+- 📕 [Alfa bank competitor analysis](https://github.com/ArtemIlinn/Research/blob/main/report%20Alfa%2023.pdf)
 - 🌋 [Value at Risk dashboard in excel](https://github.com/ArtemIlinn/ValueAtRisk)
 - 📊 [Investment management for business](https://github.com/ArtemIlinn/Investment-Management)
   

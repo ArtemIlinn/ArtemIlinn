@@ -16,7 +16,7 @@ I'm currently a Data Science & Business Analytics student and the researcher, an
 - 🔍 [Researches (Finance & Business)](https://github.com/ArtemIlinn/Research)
   
 ## Finance
-- ⭐️ [Tinkoff North Star, KPIs]()
+- ⭐️ [Tinkoff North Star, KPIs](https://github.com/ArtemIlinn/Research/blob/main/Tinkoff%20North%20Star%20PDF.pdf)
 - 🅰️ [Alfa bank competitor analysis](https://github.com/ArtemIlinn/Research/blob/main/report%20Alfa%2023.pdf)
 - 🌋 [Value at Risk dashboard in excel](https://github.com/ArtemIlinn/ValueAtRisk)
 - 📊 [Investment management for business](https://github.com/ArtemIlinn/Investment-Management)

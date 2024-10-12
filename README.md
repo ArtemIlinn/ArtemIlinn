@@ -1,6 +1,6 @@
 ### Hi 👋, my name is Artem
 
-I'm a Product Analyst with passion for FinTech, a Data Science & Business Analytics student, and the researcher, analysing the data of TradFi and DeFi, more about my experience, in [LinkedIn](https://www.linkedin.com/in/artemilin1/)
+I'm a Product Analyst with passion for FinTech, a Data Science & Business Analytics student, and the researcher, analysing the data of TradFi and DeFi, more about my experience on [LinkedIn](https://www.linkedin.com/in/artemilin1/)
 <!--
 **ArtemIlinn/ArtemIlinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

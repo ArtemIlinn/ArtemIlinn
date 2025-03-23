@@ -11,11 +11,11 @@ I'm a Product Analyst with passion for FinTech, a Data Science & Business Analyt
 - 🎧 [Spotify web-dashboard](https://github.com/ArtemIlinn/spotifysongs)
 - 💻 [Business Intelligence](https://github.com/ArtemIlinn/business-intelligence)
 - 🌓 [A/B-tests](https://github.com/ArtemIlinn/AB)
-- 🌍 [Tech consulting international strategy](https://github.com/ArtemIlinn/Research/blob/main/Edison%20Dubai-Moscow%20Strategy.pdf)
 - 🌱 [ESG paper](https://github.com/ArtemIlinn/Research/blob/main/Green%20Investing%20and%20Business%20Ecosystems_%20New%20strategies%20for%20international%20business.pdf)
 - 🔍 [Researches (Finance & Business)](https://github.com/ArtemIlinn/Research)
   
-## Finance
+## Strategy & Growth
+- 🌍 [International Tech Strategy](https://github.com/ArtemIlinn/Research/blob/main/Edison%20Dubai-Moscow%20Strategy.pdf)
 - ⭐️ [Tinkoff North Star, KPIs](https://github.com/ArtemIlinn/Research/blob/main/Tinkoff%20North%20Star%20PDF.pdf)
 - 🅰️ [Alfa bank competitor analysis](https://github.com/ArtemIlinn/Research/blob/main/report%20Alfa%2023.pdf)
 - 🌋 [Value at Risk dashboard in excel](https://github.com/ArtemIlinn/ValueAtRisk)

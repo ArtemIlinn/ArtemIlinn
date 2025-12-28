@@ -46,7 +46,8 @@ My work focuses on turning ambiguity into systems — from analytics and experim
 |------|------|
 | Languages | Python, SQL |
 | Data & Analytics | Pandas, NumPy, Plotly, Seaborn |
-| AI / ML | PyTorch, scikit-learn, LLM |
+| AI / ML | PyTorch, scikit-learn |
+| Gen AI | Agents, MCPs, LLMs, RAGs |
 | Backend & APIs | Flask, GraphQL |
 | Databases | PostgreSQL, Supabase |
 | Other | Git, Markdown |

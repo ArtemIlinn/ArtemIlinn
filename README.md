@@ -12,26 +12,22 @@ Here I share my passion for Data-Powered Product Innovation & Business Growth, m
 - 💻 [Business Intelligence](https://github.com/ArtemIlinn/business-intelligence)
 - 🌓 [A/B-tests](https://github.com/ArtemIlinn/AB)
 - 🌱 [ESG paper](https://github.com/ArtemIlinn/Research/blob/main/Green%20Investing%20and%20Business%20Ecosystems_%20New%20strategies%20for%20international%20business.pdf)
-- 🔍 [Researches (Finance & Business)](https://github.com/ArtemIlinn/Research)
+
   
 ## Strategy & Growth
-- 🌍 [International Tech Strategy](https://github.com/ArtemIlinn/Research/blob/main/Edison%20Dubai-Moscow%20Strategy.pdf)
+- 🔍 [Researches (Finance & Business)](https://github.com/ArtemIlinn/Research)
+  -🌍 [International Tech Strategy](https://github.com/ArtemIlinn/Research/blob/main/Edison%20Dubai-Moscow%20Strategy.pdf)
 - ⭐️ [Tinkoff North Star, KPIs](https://github.com/ArtemIlinn/Research/blob/main/Tinkoff%20North%20Star%20PDF.pdf)
 - 🅰️ [Alfa bank competitor analysis](https://github.com/ArtemIlinn/Research/blob/main/report%20Alfa%2023.pdf)
-- 🌋 [Value at Risk dashboard in excel](https://github.com/ArtemIlinn/ValueAtRisk)
+
 - 📊 [Investment management for business](https://github.com/ArtemIlinn/Investment-Management)
   
 ## Quant & Fin Engeneering 
 - 🪶 [Options Pricing and Trading](https://github.com/ArtemIlinn/options)
+- 🌋 [Value at Risk dashboard in excel](https://github.com/ArtemIlinn/ValueAtRisk)
 - 🪙 [Financial engeneering & RSI Dogecoin](https://github.com/ArtemIlinn/Financial-Engineering)
 - 🤖 [CPPI strategy & algotrading](https://github.com/ArtemIlinn/algotrading/tree/main/strategies)
 - 🛢 [Macro oil research](https://github.com/ArtemIlinn/CMF_macro)
-
-## Crypto & Web3
-- <img src="https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png?1696513159" width="20" height="20" /> [The Graph (GRT) - token research](https://github.com/ArtemIlinn/tokenresearch/blob/main/Graph%20Token%20(GRT).pdf)
-
-
-
 
 
 

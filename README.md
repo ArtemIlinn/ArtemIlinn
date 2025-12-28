@@ -7,27 +7,20 @@ Here I share my passion for Data-Powered Product Innovation & Business Growth, m
 
 ### With passion for finance, business, and tech here are some of my projects:
 
-## Analytics
-- 🎧 [Spotify web-dashboard](https://github.com/ArtemIlinn/spotifysongs)
-- 💻 [Business Intelligence](https://github.com/ArtemIlinn/business-intelligence)
-- 🌓 [A/B-tests](https://github.com/ArtemIlinn/AB)
-- 🌱 [ESG paper](https://github.com/ArtemIlinn/Research/blob/main/Green%20Investing%20and%20Business%20Ecosystems_%20New%20strategies%20for%20international%20business.pdf)
+## 
 
   
-## Strategy & Growth
+## Strategy, Growth, Analytics
 - 🔍 [Researches (Finance & Business)](https://github.com/ArtemIlinn/Research)
-- 🌍 [International Tech Strategy](https://github.com/ArtemIlinn/Research/blob/main/Edison%20Dubai-Moscow%20Strategy.pdf)
-- ⭐️ [Tinkoff North Star, KPIs](https://github.com/ArtemIlinn/Research/blob/main/Tinkoff%20North%20Star%20PDF.pdf)
-- 🅰️ [Alfa bank competitor analysis](https://github.com/ArtemIlinn/Research/blob/main/report%20Alfa%2023.pdf)
-
-- 📊 [Investment management for business](https://github.com/ArtemIlinn/Investment-Management)
+- 🧮 [Analytics](https://github.com/ArtemIlinn/analytics/tree/main)
+- 📊 [Investment Management](https://github.com/ArtemIlinn/Investment-Management)
   
 ## Quant & Fin Engeneering 
 - 🪶 [Options Pricing and Trading](https://github.com/ArtemIlinn/options)
 - 🌋 [Value at Risk dashboard in excel](https://github.com/ArtemIlinn/ValueAtRisk)
 - 🪙 [Financial engeneering & RSI Dogecoin](https://github.com/ArtemIlinn/Financial-Engineering)
 - 🤖 [CPPI strategy & algotrading](https://github.com/ArtemIlinn/algotrading/tree/main/strategies)
-- 🛢 [Macro oil research](https://github.com/ArtemIlinn/CMF_macro)
+
 
 
 

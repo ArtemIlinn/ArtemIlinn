@@ -22,6 +22,12 @@ My work focuses on turning ambiguity into systems — from analytics and experim
 
 ## 🚀 Selected Public Projects
 
+### Vibe Coding Tools
+
+| Project | Description |
+|------|------------|
+| 👾 [Claude.md's Collection](https://github.com/ArtemIlinn/projects-claudemd) | Collection for pet projects |
+
 ### Strategy, Growth & Analytics
 
 | Project | Description |

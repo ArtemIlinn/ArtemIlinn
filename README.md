@@ -16,7 +16,7 @@ Here I share my passion for Data-Powered Product Innovation & Business Growth, m
   
 ## Strategy & Growth
 - 🔍 [Researches (Finance & Business)](https://github.com/ArtemIlinn/Research)
--🌍 [International Tech Strategy](https://github.com/ArtemIlinn/Research/blob/main/Edison%20Dubai-Moscow%20Strategy.pdf)
+- 🌍 [International Tech Strategy](https://github.com/ArtemIlinn/Research/blob/main/Edison%20Dubai-Moscow%20Strategy.pdf)
 - ⭐️ [Tinkoff North Star, KPIs](https://github.com/ArtemIlinn/Research/blob/main/Tinkoff%20North%20Star%20PDF.pdf)
 - 🅰️ [Alfa bank competitor analysis](https://github.com/ArtemIlinn/Research/blob/main/report%20Alfa%2023.pdf)
 

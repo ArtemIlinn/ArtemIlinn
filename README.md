@@ -26,7 +26,7 @@ My work focuses on turning ambiguity into systems — from analytics and experim
 
 | Project | Description |
 |------|------------|
-| 🎄 [Winter claude.md's](https://github.com/ArtemIlinn/projects-claudemd) | Cozy family projects for winter holidays, instead of arguing over 'Monopoly' money, build something together.|
+| 🎄 [Winter claude.md's](https://github.com/ArtemIlinn/projects-claudemd) | Cozy family projects for winter holidays, instead of arguing over 'Monopoly' money, build together.|
 
 ### Strategy, Growth & Analytics
 

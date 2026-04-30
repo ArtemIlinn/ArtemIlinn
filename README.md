@@ -36,13 +36,6 @@ My work focuses on turning ambiguity into systems — from analytics and experim
 | 🧮 [Analytics](https://github.com/ArtemIlinn/analytics/tree/main) | Exploratory analytics, dashboards, and insight generation |
 | 📊 [Investment Management](https://github.com/ArtemIlinn/Investment-Management) | Financial modeling and analytical tools for business decisions |
 
-## 🔗 Connect with Me
-
-<a href="https://linkedin.com/in/artemilin1" target="_blank">
-<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-
 
 ---
 

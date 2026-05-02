@@ -37,5 +37,5 @@ My work focuses on turning ambiguity into systems — from analytics and experim
 | 📊 [Investment Management](https://github.com/ArtemIlinn/Investment-Management) | Financial modeling and analytical tools for business decisions |
 
 
----
+
 
